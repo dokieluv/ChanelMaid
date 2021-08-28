@@ -1,0 +1,12 @@
+{
+  "name": "ChanelMaid",
+  "version": "0.0.0",
+  "description": ^ ^",
+  "main": "kittys.js",
+  "scripts": {
+  "start": "kittys.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
