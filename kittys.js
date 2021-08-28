@@ -82,13 +82,10 @@ case 'bot':
 client.sendMessage(from, 'Hola,felicidades, has logrado enviar un mensaje mediante un servidor externo😚', text, {quoted : sam})
 break
                 
-}
-
 } catch (e) {
-        
 console.log(e)}
         
 })      
 }
 iniciar ()
-.catch (err => console.log("unexpected error: " + err))
+.catch (err => 
